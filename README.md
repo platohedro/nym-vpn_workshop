@@ -30,10 +30,12 @@ Recomendado para navegar, ver videos, streaming etc etc
 
 ## 5 saltos 
 
-Recomendado para pagos, Correos 
+Recomendado para pagos de crypto, Correos 
 
 ## Paginas pa probar donde está la ip 
+
 [dns leak](https://www.dnsleaktest.com/)
+
 [What is my ip](https://www.whatismyip.com/)
 
 ##  Test 
