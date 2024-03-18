@@ -32,6 +32,10 @@ Recomendado para navegar, ver videos, streaming etc etc
 
 Recomendado para pagos, Correos 
 
+## Paginas pa probar donde está la ip 
+[dns leak](https://www.dnsleaktest.com/)
+[What is my ip](https://www.whatismyip.com/)
+
 ##  Test 
 
 [Guía de test]() 
