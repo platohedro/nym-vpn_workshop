@@ -28,6 +28,7 @@ Como se indica en la encuesta, permita que los participantes instalen NymVPN (si
 [Nym Vpn GUI](https://nymtech.net/developers/nymvpn/gui.html) 
 [Linux](https://nymtech.net/developers/nymvpn/gui-linux.html)
 [Mac](https://nymtech.net/developers/nymvpn/gui-mac.html)
+[binario en windows](https://github.com/nymtech/nym-vpn-client/releases/tag/nym-vpn-desktop-v0.0.7-windows)
 
 ## Experimento
 
