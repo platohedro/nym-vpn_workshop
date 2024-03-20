@@ -1,7 +1,16 @@
 # nym-vpn_workshop
 
+[Nym](https://nymtech.net/) 
+
+Nym protege los patrones de comunicación, las direcciones IP y los metadatos de usuarios finales, empresas y operadores de infraestructuras.
+
+![](https://nymtech.net/uploads/nym_vs_animation_cf67b56056.gif)
+
+[Nym VPN](https://nymvpn.com/en)
+
 
 ## Descarga
+
 Un enlace a la documentación de NymVPN incluyendo el enlace de descarga se puede encontrar en la encuesta. Pedir a los participantes que registren su experiencia de descarga en la encuesta.
 
 [Nym Vpn Desktop 0.0.7](https://github.com/nymtech/nym-vpn-client/releases/tag/nym-vpn-desktop-v0.0.7)
